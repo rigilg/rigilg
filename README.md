@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rigilg
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 I can be reached via email on rigigilbert@gmail.com or via phone on +1 629-259-2021
 
